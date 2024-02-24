@@ -25,7 +25,6 @@
     "@angular/ssr": "^17.2.1",
     "@spartan-ng/ui-core": "^0.0.1-alpha.335",
     "express": "^4.18.2",
-    "prettier": "^3.2.5",
     "rxjs": "~7.8.0",
     "tslib": "^2.3.0",
     "zone.js": "~0.14.3"
@@ -40,6 +39,7 @@
     "@types/node": "^18.18.0",
     "autoprefixer": "^10.4.17",
     "jasmine-core": "~5.1.0",
+    "prettier": "^3.2.5",
     "karma": "~6.4.0",
     "karma-chrome-launcher": "~3.2.0",
     "karma-coverage": "~2.2.0",
